@@ -11,7 +11,7 @@ function draw() {
 	noFill();
 	strokeWeight(10);
 	
-	randomSeed(5);
+	randomSeed(4);
 	
 	beginShape();
 	stroke('pink');
